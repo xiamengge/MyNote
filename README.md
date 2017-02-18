@@ -24,3 +24,14 @@ void byte  int long  char  short float double String StringBuffer StringBuilder 
 .List、Set和Map的继承关系<br />
 .Collection 和 Collections的区别<br />
 .其他集合类<br />
+
+####继承和接口
+
+.interface和abstrat class抽象类的意义与区别:http://www.i3geek.com/archives/1230<br />
+.实现接口，继承类的规则（单继承多实现）<br />
+.接口继承接口<br />
+.继承多个抽象类？<br />
+.Overload和Override的区别。Overloaded的方法是否可以改变返回值的类型?<br />
+.对String类的继承<br />
+.abstract的method是否可同时是static,是否可同时是native，是否可同时是synchronized<br />
+.构造器Constructor是否可被override?<br />
